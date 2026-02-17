@@ -1,7 +1,3 @@
-Here is a **professional, resume-ready README.md** you can directly add to your GitHub project for your **Online Bookstore SQL Project**.
-
-You can copy this into your `README.md` file.
-
 ---
 
 # 📚 Online Bookstore SQL Project
